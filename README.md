@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://emoji.slack-edge.com/T02D2FHS7/oni/97357d48bb504fd8.png" width="40"/> Odaishi
-</h1>
+<p align="center">
+  <img src="banner.png" alt="Odaishi Banner" />
+</p>
+
+<h1 align="center">𝒪𝒹𝒶𝒾𝓈𝒽𝒾</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/style-dark%20%2B%20pink-ff69b4?style=flat-square&logo=github" />
