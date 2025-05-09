@@ -23,12 +23,17 @@
 
 ---
 
-### 🧰 Tech Arsenal
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-000000?style=flat&logo=spigotmc&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+### 🗡️ Arsenal & Credentials
+
+**Tools of the Trade**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-ff69b4?style=flat&logo=figma&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+**Forged Certifications**  
+- 🛡️ Cisco **Certified Support Technician (CCST)**
+- 🌐 Cisco **Introduction to IoT**
+- 🐧 Cisco **Linux Unhatched**
+- 🎨 Adobe **Certified Professional in Visual Design (Photoshop)**
 
 ---
 
@@ -41,9 +46,11 @@
 ---
 
 ### 🌐 Find Me Elsewhere
-- 🐦 Twitter: [@OdaishiDev](https://twitter.com/OdaishiDev)
-- 💬 Discord: `odaishi`
-- 🌸 Portfolio: *Coming Soon*
+- 📸 [Instagram](https://www.instagram.com/odaishi_/)
+- 🌌 [Bluesky](https://bsky.app/profile/odaishi.aethro.net)
+- ☕ [Ko-fi](https://ko-fi.com/odaishi)
+- 🎮 [Twitch](https://www.twitch.tv/odaishi__)
+- 🌸 [Portfolio](https://odaishi.carrd.co/)
 
 ---
 
