@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 - 🔥 Passionate developer, worldbuilder, and oni-inspired creator.
-- 🛠️ Currently building **Kingdoms Until Dawn**, a fantasy RPG plugin for Minecraft.
+- 🛠️ Currently building **Atherra** a medieval fantasy roleplay Minecraft server.
 - 💀 Fueled by shadows, cherry blossoms, and code.
 
 ---
