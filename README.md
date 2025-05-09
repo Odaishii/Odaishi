@@ -4,12 +4,6 @@
 
 <h1 align="center">𝒪𝒹𝒶𝒾𝓈𝒽𝒾</h1>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/style-dark%20%2B%20pink-ff69b4?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/theme-japanese%20oni-6a0dad?style=flat-square" />
-</p>
-
 <p align="center">
   🌑 Night-coded. 🩸 Oni-forged. 👹 Pixel-bound.
 </p>
