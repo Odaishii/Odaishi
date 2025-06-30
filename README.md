@@ -42,7 +42,6 @@
 ### 🌐 Find Me Elsewhere
 - 📸 [Instagram](https://www.instagram.com/odaishi_/)
 - 🌌 [Bluesky](https://bsky.app/profile/odaishi.aethro.net)
-- ☕ [Ko-fi](https://ko-fi.com/odaishi)
 - 🎮 [Twitch](https://www.twitch.tv/odaishi__)
 - 🌸 [Portfolio](https://odaishi.carrd.co/)
 
